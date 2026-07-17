@@ -40,3 +40,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vaskrokodile/Vaskrokodile/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
 </p>
+
