@@ -33,4 +33,4 @@ The v3 run is the only correctly aligned GRPO run. Earlier runs had a prompt-tok
 
 ## Publication
 
-No Hugging Face or GitHub credentials were configured on the old PC, so external publication could not be completed from this session. The source/report copy is prepared in the local Git repository under `Vaskrokodile/rlvr_gpt_controller/`; authenticate on the next PC, run `hf upload`, and push the prepared commit.
+The source and report were pushed to `https://github.com/Vaskrokodile/Vaskrokodile/tree/main/rlvr_gpt_controller` at commit `690b0ed`. A private Hugging Face repository was created at `https://huggingface.co/Akahsizrr/aiaah-rlvr-grpo-checkpoint-20260909` and contains its model card. The binary adapter and JSONL artifacts are in this verified local archive; authenticate on the next PC and upload them with `hf upload`.
